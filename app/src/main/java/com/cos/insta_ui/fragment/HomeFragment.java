@@ -32,19 +32,6 @@ import java.util.List;
 
 public class HomeFragment extends Fragment {
 
-    private ArrayList<StoryData> arrayList;
-    private StoryAdapter storyAdapter;
-    private PostAdapter postAdapter;
-    private RecyclerView rv_story, rv_post;
-    private RecyclerView.LayoutManager storyLayoutManager;
-    private LinearLayoutManager postLayoutManager;
-
-    private ToggleButton post_heart_Btn;
-
-    private TextView post_count;
-
-    private int count = 0;
-
     private static final String TAG = "HomeFragment";
 
     public HomeFragment(){
