@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/search_img"
+        android:layout_width="118dp"
+        android:layout_height="118dp"
+        android:src="@drawable/profile"
+        android:scaleType="centerCrop"
+        android:background="@drawable/rv_search_border"
+        android:padding="1dp"
+        />
+
+</LinearLayout>
