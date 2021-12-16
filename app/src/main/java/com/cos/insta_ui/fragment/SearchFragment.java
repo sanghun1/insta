@@ -54,6 +54,7 @@ public class SearchFragment extends Fragment {
         searchAdapter = new SearchAdapter(searchdatas);
         rv_search.setAdapter(searchAdapter);
 
+
         return view;
     }
 }
