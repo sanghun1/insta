@@ -30,6 +30,7 @@
         <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/drawable/sign_layout_border.xml" value="0.4197916666666667" />
         <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/drawable/story_gra.xml" value="0.4197916666666667" />
         <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/layout/activity_sign.xml" value="0.4036458333333333" />
         <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/layout/home_fragment.xml" value="0.4036458333333333" />
         <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/layout/login_fragment.xml" value="0.264" />
         <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/layout/main_fragment.xml" value="0.4036458333333333" />
@@ -47,6 +48,9 @@
         <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/layout/story_fragment.xml" value="0.4036458333333333" />
         <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/layout/story_item.xml" value="0.4036458333333333" />
         <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/layout/test.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/mipmap-anydpi-v26/ic_insta_round.xml" value="0.246875" />
+        <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/mipmap-anydpi-v26/ic_instagram.xml" value="0.246875" />
+        <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/mipmap-anydpi-v26/ic_instagram_round.xml" value="0.246875" />
         <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.24635416666666668" />
         <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.24635416666666668" />
         <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/mipmap-anydpi-v26/ic_logo.xml" value="0.24635416666666668" />
