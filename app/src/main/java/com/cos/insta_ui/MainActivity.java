@@ -25,12 +25,10 @@ public class MainActivity extends AppCompatActivity {
         FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
 
         MainFragment mainFragment = new MainFragment();
-        LoginFragment loginFragment = new LoginFragment();
 
-        transaction.replace(R.id.main_frame, loginFragment);
+        transaction.replace(R.id.main_frame, mainFragment);
         transaction.commit();
 
     }
-
 
 }
