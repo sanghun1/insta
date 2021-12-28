@@ -9,8 +9,11 @@
         <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/drawable/baseline_home_24.xml" value="0.4197916666666667" />
         <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/drawable/baseline_window_20.xml" value="0.4197916666666667" />
         <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/drawable/basic_profile.xml" value="0.14074074074074075" />
+        <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/drawable/bookmark.xml" value="0.4197916666666667" />
         <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/drawable/border.xml" value="0.4197916666666667" />
         <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/drawable/chat.xml" value="0.4197916666666667" />
+        <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/drawable/heart.xml" value="0.4197916666666667" />
+        <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/drawable/home.xml" value="0.4197916666666667" />
         <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.4197916666666667" />
         <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/drawable/ic_baseline_add_to_photos_24.xml" value="0.4197916666666667" />
         <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/drawable/ic_baseline_border_all_24.xml" value="0.4197916666666667" />
@@ -25,7 +28,14 @@
         <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/drawable/ic_logo_background.xml" value="0.24635416666666668" />
         <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/drawable/login_border.xml" value="0.4197916666666667" />
         <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/drawable/login_btn_border.xml" value="0.4197916666666667" />
+        <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/drawable/more.xml" value="0.4197916666666667" />
+        <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/drawable/place.xml" value="0.4197916666666667" />
+        <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/drawable/play.xml" value="0.4197916666666667" />
+        <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/drawable/post_add.xml" value="0.4197916666666667" />
         <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/drawable/rv_search_border.xml" value="0.4197916666666667" />
+        <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/drawable/search.xml" value="0.4197916666666667" />
+        <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/drawable/send.xml" value="0.4197916666666667" />
+        <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/drawable/shop.xml" value="0.4197916666666667" />
         <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/drawable/sign_border.xml" value="0.4197916666666667" />
         <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/drawable/sign_layout_border.xml" value="0.4197916666666667" />
         <entry key="..\:/Users/82104/OneDrive/Insta_UI/app/src/main/res/drawable/story_gra.xml" value="0.4197916666666667" />
